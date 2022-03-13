@@ -54,7 +54,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Usage
 
-To use this application:
+### To use this application:
 
 * Clone the GitHub repository at: https://github.com/danielnels/E-Commerce-Back-End.git
 Download and install node.js.
@@ -63,12 +63,12 @@ Download and install node.js.
 
 * Be sure to include your MySQL user/password information in .env file.
 
-Database Connection
+### Database Connection:
 * mysql -u root -p
 * source schema.sql
 * npm run seed [To seed the file]
 
-Run the app
+### Run the app:
 
 * npm start [To start the server] and navigate to http://localhost:3001/ in your browser OR Use Insomnia Core
 Usage
