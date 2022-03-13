@@ -56,7 +56,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 To use this application:
 
-* Clone the GitHub repository at: https://github.com/danielnels/-Awesome-Note-Taker-Express.js.git
+* Clone the GitHub repository at: https://github.com/danielnels/E-Commerce-Back-End.git
 Download and install node.js.
 
 * To automatically install dependencies, run "npm i" 
@@ -90,11 +90,17 @@ Usage
     
 ## Walkthrough Video
 
-* Starting the app in the terminal demo:
-https://user-images.githubusercontent.com/94213022/158044881-f4c39f6a-4de6-45d5-9c78-b2da3b2d2cf5.mp4
+#### Starting the app in the terminal demo
 
-* Using the app in insomnia demo:
-https://user-images.githubusercontent.com/94213022/158044894-adbb4dfc-7096-4527-be8c-a59265f082f6.mp4
+
+https://user-images.githubusercontent.com/94213022/158045071-a4d77e97-3317-4faa-b01b-08567683b822.mp4
+
+
+#### Using the app in insomnia demo
+
+
+
+https://user-images.githubusercontent.com/94213022/158045077-c58bb5a3-69e9-4951-9567-cda5d5e44539.mp4
 
 
 
@@ -105,7 +111,7 @@ https://user-images.githubusercontent.com/94213022/158044894-adbb4dfc-7096-4527-
 
 
 ## Deployed Application Link
-
+https://github.com/danielnels/E-Commerce-Back-End.git
 
 ## Questions
   Please e-mail me if you have any questions about this App
