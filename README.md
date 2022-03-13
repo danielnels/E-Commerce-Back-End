@@ -89,12 +89,21 @@ Usage
 
     
 ## Walkthrough Video
+```
+* Starting the app in the terminal demo:
+
+https://user-images.githubusercontent.com/94213022/158044881-f4c39f6a-4de6-45d5-9c78-b2da3b2d2cf5.mp4
+```
+* Using the app in insomnia demo:
+```
+https://user-images.githubusercontent.com/94213022/158044894-adbb4dfc-7096-4527-be8c-a59265f082f6.mp4
 
 
 
 ## App image
 
-![Note-taker](https://user-images.githubusercontent.com/94213022/156104569-2f2e7d79-6675-47f3-84e3-9240b4f25ff1.png)
+![ecom screen-shot](https://user-images.githubusercontent.com/94213022/158044840-281e2532-bd70-4353-b119-992f567a6274.png)
+
 
 
 ## Deployed Application Link
