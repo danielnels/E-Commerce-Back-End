@@ -89,13 +89,11 @@ Usage
 
     
 ## Walkthrough Video
-```
-* Starting the app in the terminal demo:
 
+* Starting the app in the terminal demo:
 https://user-images.githubusercontent.com/94213022/158044881-f4c39f6a-4de6-45d5-9c78-b2da3b2d2cf5.mp4
-```
+
 * Using the app in insomnia demo:
-```
 https://user-images.githubusercontent.com/94213022/158044894-adbb4dfc-7096-4527-be8c-a59265f082f6.mp4
 
 
